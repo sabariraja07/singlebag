@@ -1,0 +1,8 @@
+[
+    {"code":"en", "countryCode" : "gb-eng", "name":"English","nativeName":"English"},
+    {"code":"ta", "countryCode" : "in", "name":"Tamil","nativeName":"தமிழ்"},
+    {"code":"te", "countryCode" : "in", "name":"Telugu","nativeName":"తెలుగు"},
+    {"code":"kn", "countryCode" : "in", "name":"Kannada","nativeName":"ಕನ್ನಡ"},
+    {"code":"ml", "countryCode" : "in", "name":"Malayalam","nativeName":"മലയാളം"},
+    {"code":"hi", "countryCode" : "in", "name":"Hindi","nativeName":"हिन्दी"}
+]
